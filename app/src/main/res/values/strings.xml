@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DC Quiz</string>
+
+    <string name="question1">1. What planet is Superman from?</string>
+        <string name="q1ch1">Krypton</string>
+        <string name="q1ch2">Earth</string>
+        <string name="q1ch3">Apokolips</string>
+
+
+    <string name="question2">2. Select the mentor\'s of Young Justice: </string>
+        <string name="q2ch1">Tigress</string>
+        <string name="q2ch2">Black Canary</string>
+        <string name="q2ch3">Night Wing</string>
+        <string name="q2ch4">Red Tornado</string>
+
+
+    <string name="question3">3. What is Vixen\'s country of origin?</string>
+        <string name="q3ch">Zambesi</string>
+
+    <string name="question4">4. What is Wonder Wonder\'s weapon of choice?</string>
+        <string name="q4ch1">Mace</string>
+        <string name="q4ch2">Lasso</string>
+        <string name="q4ch3">Hammer</string>
+
+    <string name="question5">5. What is Cyborg\'s real name?</string>
+        <string name="q5ch">Victor Stone</string>
+
+    <string name="question6">6. Select the Green Lanterns: </string>
+        <string name="q6ch1">Kilowog</string>
+        <string name="q6ch2">Clark Kent</string>
+        <string name="q6ch3">John Stewart</string>
+        <string name="q6ch4">Hal Jordan</string>
+
+    <string name="submit_button">Submit</string>
+
+
+
+
+</resources>
